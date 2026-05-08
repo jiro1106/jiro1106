@@ -9,17 +9,10 @@
 Aspiring frontend developer focused on visually appealing web apps.
 
 ## About Me
-- 🎓 Computer Science graduate
-- 💻 React, Next.js, Tailwind, Laravel
-- 🤖 Building AI chatbots with RAG
+Full-stack developer with an eye for design — I build everything from beautiful landing pages
+to complex admin dashboards and AI-powered chatbots.
 
-## Projects
-### HomeSense
-Smart electricity monitoring system with smart plugs and bill prediction.
-
-### ALIAC Chatbot
-AI chatbot using RAG + Laravel + React.
 
 ## Connect
-- LinkedIn: your-link
-- Portfolio: your-site
+- LinkedIn: https://www.linkedin.com/in/jiro-rafael-layug/
+- Portfolio: [your-site](https://jirolayug-portfolio.vercel.app/)
