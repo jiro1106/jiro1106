@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋 I'm Jiro</h1>
 
 <p align="center">
-  Aspiring Frontend Developer | React | Laravel | AI Chatbots
+  Fullstack Developer
 </p>
-
-<hr>
 
 Aspiring frontend developer focused on visually appealing web apps.
 
