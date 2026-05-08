@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Jiro</h1>
 
 <p align="center">
-  Fullstack Developer
+  Full-Stack Developer Intern at ALIAC | Computer Science at De La Salle Lipa
 </p>
 
 ## About Me
@@ -11,4 +11,4 @@ to complex admin dashboards and AI-powered chatbots.
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/jiro-rafael-layug/
-- Portfolio: [your-site](https://jirolayug-portfolio.vercel.app/)
+- Portfolio: https://jirolayug-portfolio.vercel.app/
