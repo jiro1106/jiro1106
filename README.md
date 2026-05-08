@@ -4,8 +4,6 @@
   Fullstack Developer
 </p>
 
-Aspiring frontend developer focused on visually appealing web apps.
-
 ## About Me
 Full-stack developer with an eye for design — I build everything from beautiful landing pages
 to complex admin dashboards and AI-powered chatbots.
