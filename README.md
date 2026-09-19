@@ -22,5 +22,5 @@ Currently exploring full-stack and frontend opportunities in NCR (hybrid/remote)
 - Full-stack developer roles (remote/hybrid, NCR preferred)
 
 ## Connect
-- **LinkedIn**: [View my profile](https://www.linkedin.com/in/jiro-rafael-layug/)
-- **Portfolio**: [Visit my portfolio](https://jirolayug-portfolio.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/jiro-rafael-layug/)
+- [Portfolio](https://jirolayug-portfolio.vercel.app/)
