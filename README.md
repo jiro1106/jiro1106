@@ -8,7 +8,7 @@
 Full-stack developer with an eye for design — I build everything from beautiful landing pages
 to complex admin dashboards and AI-powered chatbots.
 
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,python,postgres,tailwind)](https://skillicons.dev)
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/jiro-rafael-layug/
