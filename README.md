@@ -1,8 +1,7 @@
 # Jiro Rafael Layug
  
 **Full-Stack Developer** | Computer Science @ De La Salle Lipa
- 
----
+
  
 ## About Me
  
