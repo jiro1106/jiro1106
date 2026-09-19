@@ -11,7 +11,7 @@ Full-stack developer building web and mobile applications that work beautifully 
 Currently exploring full-stack and frontend opportunities in NCR (hybrid/remote).
 
 
-### Stack I'm Currently Using
+## Stack I'm Currently Using
 [![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,python,postgres,tailwind)](https://skillicons.dev)
 
 ## Open To
