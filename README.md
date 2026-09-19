@@ -17,10 +17,6 @@ Currently exploring full-stack and frontend opportunities in NCR (hybrid/remote)
 ## Stack I'm Currently Using
 [![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,python,postgres,tailwind)](https://skillicons.dev)
 
-## Open To
- 
-- Full-stack developer roles (remote/hybrid, NCR preferred)
-
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/jiro-rafael-layug/)
 - [Portfolio](https://jirolayug-portfolio.vercel.app/)
