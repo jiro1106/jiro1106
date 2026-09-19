@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋 I'm Jiro</h2>
+<h2>Jiro Rafael Layug</h2>
 
 
 Full-Stack Developer Intern @ ALIAC 
@@ -6,8 +6,7 @@ Computer Science @ De La Salle Lipa
 
 
 ## About Me
-Full-stack developer with an eye for design — I build everything from beautiful landing pages
-to complex admin dashboards and AI-powered chatbots.
+Full-stack developer building web and mobile applications that work beautifully at scale,
 
 ### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,python,postgres,tailwind)](https://skillicons.dev)
