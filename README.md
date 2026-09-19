@@ -4,10 +4,6 @@
 
 **Full-Stack Developer** | Computer Science @ De La Salle Lipa
 
-Full-stack developer building web and mobile applications that work beautifully at scale. I obsess over the details that make it feel effortless to use—motion, typography, and interfaces that respond like they're listening.
-
-Currently exploring full-stack and frontend opportunities in NCR (hybrid/remote).
-
 </div>
 
  
