@@ -9,7 +9,7 @@
  
 ## About Me
  
-Full-stack developer building web and mobile applications that work beautifully at scale. I obsess over the details that make it feel effortless to use—motion, typography, and interfaces that respond like they're listening.
+Full-stack developer building web and mobile applications that work beautifully at scale. I obsess over the small details that make apps feel effortless to use.
  
 Currently exploring full-stack and frontend opportunities in NCR (hybrid/remote).
 
