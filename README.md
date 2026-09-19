@@ -16,9 +16,6 @@ Currently exploring full-stack and frontend opportunities in NCR (hybrid/remote)
 ## Open To
  
 - Full-stack developer roles (remote/hybrid, NCR preferred)
-- Frontend-heavy full-stack opportunities
-- Teams that care about user experience and code quality
-- Learning-focused environments
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/jiro-rafael-layug/
