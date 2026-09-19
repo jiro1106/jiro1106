@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Jiro</h1>
+<h2 align="center">Hi 👋 I'm Jiro</h2>
 
 
 Full-Stack Developer Intern @ ALIAC 
