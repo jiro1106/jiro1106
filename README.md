@@ -8,7 +8,8 @@ Computer Science @ De La Salle Lipa
 ## About Me
 Full-stack developer building web and mobile applications that work beautifully at scale,
 
-### Languages and Tools
+
+### Stack I'm Currently Using
 [![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,python,postgres,tailwind)](https://skillicons.dev)
 
 
