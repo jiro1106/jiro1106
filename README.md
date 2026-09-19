@@ -9,7 +9,6 @@ Full-stack developer with an eye for design — I build everything from beautifu
 to complex admin dashboards and AI-powered chatbots.
 
 ### Languages and Tools
-
 [![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,python,postgres,tailwind)](https://skillicons.dev)
 
 
