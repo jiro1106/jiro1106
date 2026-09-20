@@ -2,7 +2,7 @@
 
 # Jiro Rafael Layug 👨‍💻 
 
-**Ex Full-Stack Developer Intern @ ALIAC** | Computer Science @ De La Salle Lipa
+**Full-Stack Developer Intern @ ALIAC** | Computer Science @ De La Salle Lipa
 
 </div>
 
